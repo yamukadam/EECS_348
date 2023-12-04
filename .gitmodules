@@ -1,0 +1,3 @@
+[submodule "eclab2"]
+	path = eclab2
+	url = https://github.com/yamukadam/EECS_348.git
